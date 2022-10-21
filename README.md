@@ -5,6 +5,7 @@ The problem explored in this project is to discover which of several features in
 ### Data:
 The data used for this project originates from:
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+
 The data items include several features including: item weights, item visibility, outlet types, outlet sizes, fat content and MRP.
 ## Methods
 The data were prepared by eliminating duplicates and focusing on Item Weight, Item Visibility, MRP, Fat Content, and Outlet Location Type.  Outlet Establighment Year, Item Identifier, and Outlet Identifier were not included in the analysis or modeling, as they do not provide additional insights.
